@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Cryptohnic
 - 👀 I’m interested in Computer Programming and working with data
-- 🌱 I’m currently learning data structures in Java
-- 📫 How to reach me brandonwalex@gmail.com 8179889017
+- 🌱 I’m currently learning and mastering Python3
+- 📫 How to reach me brandonwalex@gmail.com 817-988-9017
