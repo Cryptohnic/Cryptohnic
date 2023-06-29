@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Cryptohnic
-- 👀 I’m interested in AI, computer programming, optimization, and data science
-- 🌱 I’m currently learning and mastering Java SE
+- 👀 I’m interested in AI, optimization, vand general computer programming
+- 🌱 I’m currently learning and mastering Java SE while also learning about AI and machine learning
 - 📫 How to reach me brandonwalex@gmail.com or (817) 988-9017
