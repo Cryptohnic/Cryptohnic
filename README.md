@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Cryptohnic
 - 👀 I’m interested in optimization and AI
-- 🌱 I’m currently learning and mastering Python and Java
-- 📫 How to reach me brandonwalex@gmail.com
+- 🌱 I’m currently working on audio processing and web automation
+- 📫 How to reach me brandonwalex@pm.me
