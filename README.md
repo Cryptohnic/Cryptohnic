@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Cryptohnic
-- 👀 I’m interested in optimization and the very broad field of AI
-- 🌱 I’m currently working on audio processing and web automation
 - 📫 How to reach me brandonwalex@pm.me
